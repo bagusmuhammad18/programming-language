@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgrammingLanguage</string>
+    <string name="heroes_name">Language Name</string>
+    <string name="description">Description</string>
+</resources>
